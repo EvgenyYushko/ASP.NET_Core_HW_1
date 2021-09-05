@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET_Core_HW_1", "ASP.NE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackApp.Models", "FeedbackApp.Models\FeedbackApp.Models.csproj", "{97C5D206-B089-4AE5-A748-3656BCCC6955}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackApp.DAL", "FeedbackApp.DAL\FeedbackApp.DAL.csproj", "{FF46467C-6FED-4C74-9105-DF4B060912DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackApp.BLL", "FeedbackApp.BLL\FeedbackApp.BLL.csproj", "{74E0FF16-ECEF-4F81-A30C-18BD99498BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{97C5D206-B089-4AE5-A748-3656BCCC6955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97C5D206-B089-4AE5-A748-3656BCCC6955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97C5D206-B089-4AE5-A748-3656BCCC6955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF46467C-6FED-4C74-9105-DF4B060912DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF46467C-6FED-4C74-9105-DF4B060912DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF46467C-6FED-4C74-9105-DF4B060912DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF46467C-6FED-4C74-9105-DF4B060912DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E0FF16-ECEF-4F81-A30C-18BD99498BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E0FF16-ECEF-4F81-A30C-18BD99498BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E0FF16-ECEF-4F81-A30C-18BD99498BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E0FF16-ECEF-4F81-A30C-18BD99498BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
