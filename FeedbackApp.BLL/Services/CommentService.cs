@@ -1,5 +1,6 @@
 ﻿using FeedbackApp.BLL.Interfaces;
 using FeedbackApp.BLL.VMs.Comment;
+using FeedbackApp.DAL.Patterns;
 using FeedbackApp.Models;
 using System;
 using System.Collections.Generic;
