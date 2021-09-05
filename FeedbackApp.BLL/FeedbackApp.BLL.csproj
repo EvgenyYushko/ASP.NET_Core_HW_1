@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FeedbackApp.DAL\FeedbackApp.DAL.csproj" />
+    <ProjectReference Include="..\FeedbackApp.Models\FeedbackApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>
